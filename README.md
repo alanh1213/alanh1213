@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there!
 
-<p>I’m currently working on a survival horror game inspired by the Resident Evil originals games.</p>
-<p>I’m currently learning 3D animation and modelling (not much related :P)</p>
-<p>How to reach me: alanh1213@hotmail.com </p>
+<p>- My name is Alan Sforzini, thank you for visiting my profile</p>
+<p>- I’m currently working on a survival horror game inspired by the Resident Evil originals games.</p>
+<p>- I’m currently learning 3D animation and modelling (not much related :P)</p>
+<p>- How to reach me: alanh1213@hotmail.com </p>
 
 
 <h2 align="center">A summary of my programming skills.</h2>
