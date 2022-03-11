@@ -8,7 +8,7 @@ How to reach me: alanh1213@hotmail.com
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'/>
+  <img src='https://raw.githubusercontent.com/alanh1213/alanh1213/main/skills/csharp.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
